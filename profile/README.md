@@ -9,7 +9,7 @@
 
 **BSIC CONCEPTS?**
 - [What is Project Management? Definition, Objectives & Examples](https://www.youtube.com/watch?v=49-LbHZSF3U)
-- [FizzBuzz](./Challenges%20with%20Solutions/fizzbuzz-cherelemma-main/)
+- [What is a Project](https://www.youtube.com/watch?v=j72niEHuk-0)
 - [Palindrome Checker](./Challenges%20with%20Solutions/palindrome-cherelemma-main/)
 
 **WHY PROJECT MANAGEMENT MATTERS?**
