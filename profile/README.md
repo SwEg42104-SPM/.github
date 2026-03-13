@@ -5,7 +5,7 @@
   <h2><b> SWEG4104 - Software Project Management </b></h2>
 </div>
   
-### Learning Resources
+## Learning Resources
 
 **Simple Interview-like coding challenges.**
 - [Anagram Checker](./Challenges%20with%20Solutions/anagram-cherelemma-main/)
