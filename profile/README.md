@@ -7,8 +7,8 @@
   
 ## Learning Resources
 
-**WHAT IS PROJECT?**
-- [Anagram Checker](./Challenges%20with%20Solutions/anagram-cherelemma-main/)
+**BSIC CONCEPTS?**
+- [What is Project Management? Definition, Objectives & Examples](https://www.youtube.com/watch?v=49-LbHZSF3U)
 - [FizzBuzz](./Challenges%20with%20Solutions/fizzbuzz-cherelemma-main/)
 - [Palindrome Checker](./Challenges%20with%20Solutions/palindrome-cherelemma-main/)
 
