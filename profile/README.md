@@ -2,32 +2,25 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b> SWEG4104 - Software Project Management </b></h1>
-  <h2><b> Learning Resources </a></b></h2>
+  <h2><b> SWEG4104 - Software Project Management </b></h2>
+  <h3><b> Learning Resources </a></b></h3>
 </div>
   
-### 📖 BASIC CONCEPTS
-<ul>
-  <li><a href="#">What is Project?</a></li>
-  <li><a href="#">Project Vs. Operation</a></li>
-</ul>
+# Learning Resources
 
-### 📖 UNDERSTANDING MANAGEMENT CONTEXT
-<ul>
-   <li><a href="#">xxx</a></li>
-</ul>
+**Simple Interview-like coding challenges.**
+- [Anagram Checker](./Challenges%20with%20Solutions/anagram-cherelemma-main/)
+- [FizzBuzz](./Challenges%20with%20Solutions/fizzbuzz-cherelemma-main/)
+- [Palindrome Checker](./Challenges%20with%20Solutions/palindrome-cherelemma-main/)
 
+**Data Strcutures**
+- [Linked Lists: challenge 1](./Challenges%20with%20Solutions/linked-lists-cherelemma-main/)
+- [Linked Lists: challenge 2](./Challenges%20with%20Solutions/linked-lists-next-step-cherelemma-main/)
 
-### 📖 PROJECT MANAGEMENT LIFE CYCLE (PROCESS GROUP)
-<ul>
-   <li><a href="#">xxx</a></li>
-</ul>
+**Trees & Graphs**
+- [Tree node sum Challenge](./Challenges%20with%20Solutions/trees-cherelemma-main/)
+- [Tree traversal: PostOrder Challenge](./Challenges%20with%20Solutions/tree-traversal-cherelemma-main/)
 
-
-
- ##### QUIZ QUESTIONS
- <ul>
-    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz1-solution.cpp">Quiz-1 Solution</a></li>
-    <li><a href="https://github.com/SwEg21-03-07-FoP/FoP-I-Exercises-Solution/blob/main/Chapter-4%20Array%20and%20Strings/quiz2-solution.cpp">Quiz-2 Solution</a></li>
- </ul> 
-
+**Sort Algorithms**
+- [Single Item Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-intro-cherelemma-main/)
+- [Full Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-cherelemma-main/)
