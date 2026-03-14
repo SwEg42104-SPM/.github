@@ -8,17 +8,19 @@
 ## Learning Resources
 
 **BSIC CONCEPTS?**
-- [What is Project Management? Definition, Objectives & Examples](https://www.youtube.com/watch?v=49-LbHZSF3U)
 - [What is a Project](https://www.youtube.com/watch?v=j72niEHuk-0)
-- [Palindrome Checker](./Challenges%20with%20Solutions/palindrome-cherelemma-main/)
+- [What is a Project Definition?](https://www.youtube.com/watch?v=xuAxYwembwU)
+- [What is Project Management? Definition, Objectives & Examples](https://www.youtube.com/watch?v=49-LbHZSF3U)
+- [Project vs Operations | What is Project Management & Why It Matters | Real-World RPA Examples](https://www.youtube.com/watch?v=gaHEc4PHnZs)
 
-**WHY PROJECT MANAGEMENT MATTERS?**
-- [Linked Lists: challenge 1](./Challenges%20with%20Solutions/linked-lists-cherelemma-main/)
-- [Linked Lists: challenge 2](./Challenges%20with%20Solutions/linked-lists-next-step-cherelemma-main/)
+- [Triple Constraint Project Management Explained | TeamGantt]([./Challenges%20with%20Solutions/linked-lists-cherelemma-main/](https://www.youtube.com/watch?v=rTIxNtnjujQ)
+- [What are Project Constraints?](https://www.youtube.com/watch?v=KUDcP19KMEU)
 
-**PROJECT CONSTRAINTS**
-- [Tree node sum Challenge](./Challenges%20with%20Solutions/trees-cherelemma-main/)
-- [Tree traversal: PostOrder Challenge](./Challenges%20with%20Solutions/tree-traversal-cherelemma-main/)
+- [Why Project Management Matters?](https://www.youtube.com/watch?v=r3Hzxm5AgI4)
+- [6 Reasons Why Project Management Matters](https://www.youtube.com/watch?v=IfI05p57yxg)
+
+- [Project Management in Software Engineering](https://www.youtube.com/watch?v=zNcZMCcWTMU)
+- [Software Project Management - Why it's Different!](https://www.youtube.com/watch?v=TYBVAvWkG6M)
 
 **PROJECT MANAGEMENT LIFECYCLE (PROCESS GROUP)**
 - [Single Item Insertion Sort](./Challenges%20with%20Solutions/insertion-sort-intro-cherelemma-main/)
