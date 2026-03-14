@@ -13,7 +13,7 @@
 - [What is Project Management? Definition, Objectives & Examples](https://www.youtube.com/watch?v=49-LbHZSF3U)
 - [Project vs Operations | What is Project Management & Why It Matters | Real-World RPA Examples](https://www.youtube.com/watch?v=gaHEc4PHnZs)
 
-- [Triple Constraint Project Management Explained | TeamGantt]([./Challenges%20with%20Solutions/linked-lists-cherelemma-main/](https://www.youtube.com/watch?v=rTIxNtnjujQ)
+- [Triple Constraint Project Management Explained | TeamGantt](https://www.youtube.com/watch?v=rTIxNtnjujQ)
 - [What are Project Constraints?](https://www.youtube.com/watch?v=KUDcP19KMEU)
 
 - [Why Project Management Matters?](https://www.youtube.com/watch?v=r3Hzxm5AgI4)
